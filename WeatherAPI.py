@@ -1,4 +1,4 @@
-from urllib.requesr import urlopen
+from urllib.request import urlopen
 
 link = 'http://wttr.in/Perth?A'
 
