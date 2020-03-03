@@ -6,4 +6,4 @@ wget = urlopen(link)
 
 webtext = wget.read()
 
-print(webtext.decode('utf-8')
+print(webtext.decode('utf-8'))
